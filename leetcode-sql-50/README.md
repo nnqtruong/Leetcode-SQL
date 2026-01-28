@@ -2,13 +2,13 @@
 
 My solutions to the LeetCode SQL 50 study plan, organized by topic.
 
-## Progress: 13/50 ✅
+## Progress: 14/50 ✅
 
 ### Topics Completed
 - ✅ SELECT: 5/5
+- ✅ Basic Joins: 9/9
 
 ### Topics In Progress
-- 🔄 Basic Joins: 8/9
 - 📝 Basic Aggregate Functions: 0/8
 - 📝 Sorting and Grouping: 0/7
 - 📝 Advanced Select and Joins: 0/7
